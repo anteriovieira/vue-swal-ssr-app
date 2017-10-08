@@ -2,6 +2,8 @@
 
 > Nuxt project with VueSwal
 
+[Live Demo](http://vue-swal.herokuapp.com/)
+
 ## Build Setup
 
 ``` bash
