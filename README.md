@@ -22,3 +22,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+## How to deploy Nuxt on Heroku?
+
+[Official documentation.](https://github.com/nuxt/docs/blob/master/en/faq/heroku-deployment.md)
